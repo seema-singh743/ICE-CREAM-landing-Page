@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 10px;
+    background-color: #FFF0D1;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    background-attachment: scroll;
+    backface-visibility: visible;
+
+}
+
+header {
+    background-image: url("C:/Users/seema/OneDrive/Desktop/HTML/images/June 3  10 am  Nguyen Residence.png");
+    background-repeat: repeat;
+    background-size: contain;
+    text-align: center;
+    margin: 10px 20px;
+    padding: 30px;
+    
+   
+}
+
+h2 {
+    color: #795757;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: circle;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10 15px;
+}
+section {
+    padding: 20px;
+    margin: 20px;
+
+}
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(88, 87, 87, 0.1);
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #630d0d;
+}
+
+th {
+    background-color: #795757;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+Contact US {
+    padding: 20px;
+    margin: 20px;
+    background-color: #795757;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #e3b910;
+}
